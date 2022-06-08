@@ -1,0 +1,13 @@
+.html{
+    margin: 0;
+    padding: 0;
+}
+.main-wrapper{
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row{
+    margin-bottom: 8px;
+}
